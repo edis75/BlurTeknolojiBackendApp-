@@ -1,0 +1,41 @@
+baseurl=http://localhost:5085
+1-)GET baseurl/api/enterprise
+	- gel all enterprises
+
+2-)GET baseurl/api/enterprise/bb06dc6b-8c4d-4d90-8032-85286c76e736
+	GET BY ID api/enterprise/{id}
+
+3-)Create baseurl/api/enterprise
+Headers: Content-Type: application/json
+
+Body at bellow 
+{
+  "title": "Blur Teknoloji",
+  "phone": "905551234567",
+  "email": "contact@blur.com",
+  "balance": 2500.75,
+  "address": "Ankara / Çankaya",
+  "taxNumber": "1234567890",
+  "taxProvince": "Ankara",
+  "taxDistrict": "Çankaya"
+}
+
+4-)Update baseurl/api/enterprise/
+Headers: Content-Type: application/json
+
+{
+  "id": "bb06dc6b-8c4d-4d90-8032-85286c76e736",
+  "title": "Blur Teknoloji AŞ",
+  "phone": "905559998877",
+  "email": "updated@blur.com",
+  "balance": 4200.50,
+  "address": "İzmir / Konak",
+  "taxNumber": "1234567890",
+  "taxProvince": "İzmir",
+  "taxDistrict": "Konak",
+  "verified": true,
+  "disabled": false
+}
+
+5-)Delete baseurl/api/enterprise/bb06dc6b-8c4d-4d90-8032-85286c76e736
+
