@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlurTeknolojiBackendApp", "BlurTeknolojiBackendApp\BlurTeknolojiBackendApp.csproj", "{A219B615-3477-41D5-8BC2-4E215F366E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A219B615-3477-41D5-8BC2-4E215F366E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A219B615-3477-41D5-8BC2-4E215F366E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A219B615-3477-41D5-8BC2-4E215F366E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A219B615-3477-41D5-8BC2-4E215F366E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4716AE3A-0348-4150-A978-DBC298DA017D}
+	EndGlobalSection
+EndGlobal

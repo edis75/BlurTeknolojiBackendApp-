@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|c:\\users\\edis\\source\\repos\\blurteknolojibackendapp\\blurteknolojibackendapp\\blurteknolojibackendapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|solutionrelative:blurteknolojibackendapp\\blurteknolojibackendapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|c:\\users\\edis\\source\\repos\\blurteknolojibackendapp\\blurteknolojibackendapp\\services\\enterpriseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|solutionrelative:blurteknolojibackendapp\\services\\enterpriseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|c:\\users\\edis\\source\\repos\\blurteknolojibackendapp\\blurteknolojibackendapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|solutionrelative:blurteknolojibackendapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|c:\\users\\edis\\source\\repos\\blurteknolojibackendapp\\blurteknolojibackendapp\\services\\ienterpriseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|solutionrelative:blurteknolojibackendapp\\services\\ienterpriseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|c:\\users\\edis\\source\\repos\\blurteknolojibackendapp\\blurteknolojibackendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A219B615-3477-41D5-8BC2-4E215F366E8A}|BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj|solutionrelative:blurteknolojibackendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 353,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlurTeknolojiBackendApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\appsettings.json",
+              "RelativeToolTip": "BlurTeknolojiBackendApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T14:37:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnterpriseService.cs",
+              "DocumentMoniker": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Services\\EnterpriseService.cs",
+              "RelativeDocumentMoniker": "BlurTeknolojiBackendApp\\Services\\EnterpriseService.cs",
+              "ToolTip": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Services\\EnterpriseService.cs",
+              "RelativeToolTip": "BlurTeknolojiBackendApp\\Services\\EnterpriseService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:36:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnterpriseService.cs",
+              "DocumentMoniker": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Services\\IEnterpriseService.cs",
+              "RelativeDocumentMoniker": "BlurTeknolojiBackendApp\\Services\\IEnterpriseService.cs",
+              "ToolTip": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Services\\IEnterpriseService.cs",
+              "RelativeToolTip": "BlurTeknolojiBackendApp\\Services\\IEnterpriseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:36:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlurTeknolojiBackendApp",
+              "DocumentMoniker": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj",
+              "RelativeDocumentMoniker": "BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj",
+              "ToolTip": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj",
+              "RelativeToolTip": "BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T14:29:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlurTeknolojiBackendApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Edis\\source\\repos\\BlurTeknolojiBackendApp\\BlurTeknolojiBackendApp\\Program.cs",
+              "RelativeToolTip": "BlurTeknolojiBackendApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T12:11:29.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
